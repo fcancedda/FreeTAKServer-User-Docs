@@ -10,22 +10,23 @@ FTS will send the  information coming trough the API to all the connected client
 
 In the current release (1.9), FTS supports following API:
 
-  * ManageAPI/getHelp
-  * ManageGeoObject/postGeoObject
-  * ManageGeoObject/putGeoObject
-  * ManageGeoObject/getGeoObject
-  * ManageGeoObject/getGeoObjectByZone
-  * ManageEmergency/postEmergency
-  * ManageEmergency/getEmergency
-  * ManageEmergency/deleteEmergency 
-  * ManageChat/postChatToAll
-  * ManageRoute/postRoute
-  * ManagePresence/postPresence
-  * ManagePresence/putPresence 
-  * ManageVideoStream/postVideoStream
-  * Sensor/postDrone
-  * Sensor/postSPI
-  * /ManageKML/postKML
+
+  * [ManageAPI/getHelp](#gethelp)
+  * [ManageGeoObject/postGeoObject](#postgeoobject)
+  * [ManageGeoObject/putGeoObject](#putgeoobject)
+  * [ManageGeoObject/getGeoObject](#getgeoobject)
+  * [ManageGeoObject/getGeoObjectByZone](#getgeoobjectbyzone)
+  * [ManageEmergency/postEmergency](#postemergency)
+  * [ManageEmergency/getEmergency](#getemergency)
+  * [ManageEmergency/deleteEmergency](#deleteemergency)
+  * [ManageChat/postChatToAll](#postchattoall)
+  * [ManageRoute/postRoute](#postroute)
+  * [ManagePresence/postPresence](#postpresence)
+  * [ManagePresence/putPresence](#putpresence)
+  * [ManageVideoStream/postVideoStream](#postvideostream)
+  * [Sensor/postDrone](#postdrone)
+  * [Sensor/postSPI](#postspi)
+  * [/ManageKML/postKML](#postkml)
   
 ## General Configuration
 
